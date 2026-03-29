@@ -7,4 +7,4 @@ BRANCH : BTECH AI AND ML
 
 YEAR : 2025-2029
 
-I’m a college student driven by curiosity and a desire to grow. I enjoy learning new things, especially in areas that challenge my thinking and creativity. I’m always looking for opportunities to improve my skills, work on meaningful projects, and move one step closer to my career goals
+I am a college student who is always eager to learn and grow. I enjoy exploring new ideas and improving my knowledge in different areas. I believe in continuous learning and always try to develop new skills that can help me in my future.
