@@ -7,5 +7,4 @@ BRANCH : BTECH AI AND ML
 
 YEAR : 2025-2029
 
-SENTENCE 
- What i hope to learn is that  how to use computers, smartphones, and other digital tools confidently. It teaches me how to find, evaluate, and use information from the internet effectively and responsibly. Through digital literacy, I can communicate and collaborate safely online while protecting my personal data from digital threats. It also enables me to create digital content and use technology to solve problems. Overall, digital literacy helps me think critically and use digital tools wisely in my daily life.
+I’m a college student driven by curiosity and a desire to grow. I enjoy learning new things, especially in areas that challenge my thinking and creativity. I’m always looking for opportunities to improve my skills, work on meaningful projects, and move one step closer to my career goals
